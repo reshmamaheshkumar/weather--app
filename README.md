@@ -66,12 +66,13 @@ This project was completed independently, demonstrating my ability to take a rea
 ## 📸 Output Screenshots
 
 ### ✅ Home Page
-![Home Page]("https://github.com/user-attachments/assets/7c516141-bbd5-4aab-aca4-a4e2bcc84263")
+![Home Page]"https://github.com/user-attachments/assets/7c516141-bbd5-4aab-aca4-a4e2bcc84263"
 
 ### ✅ Weather Result
-![Weather Result]
+![Weather Result] 
 
-"https://github.com/user-attachments/assets/7c516141-bbd5-4aab-aca4-a4e2bcc84263" 
+---
+
 ## 🧪 How to Run
 
 1. Download or clone the repository
