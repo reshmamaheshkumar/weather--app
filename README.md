@@ -59,7 +59,7 @@ This project was completed independently, demonstrating my ability to take a rea
 
 - Enter city name to get current weather
 - Displays temperature, weather condition, and humidity
-- Changes emojis based on weather type (☀️ 🌧️ 🌩️ ❄️)
+- Changes emojis based on weather type (☀️ 🌧️ 🌩️ ❄️) 
 
 ---
 
@@ -69,7 +69,7 @@ This project was completed independently, demonstrating my ability to take a rea
 ![Weather App Screenshot](https://github.com/user-attachments/assets/f3c2d88a-15f0-4af2-985c-54c034c7e64a)
 
 ### ✅ Weather Result
-![Weather Result](https://github.com/user-attachments/assets/fd1e7915-2ae6-4612-b938-51babbba6443)
+![Weather Result](https://github.com/user-attachments/assets/dd9f30e3-4915-4a38-98e5-3369d2b50c20)
 
 ---
 
