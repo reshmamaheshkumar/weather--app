@@ -66,7 +66,7 @@ This project was completed independently, demonstrating my ability to take a rea
 ## 📸 Output Screenshots
 
 ### ✅ Home Page
-![Weather App Screenshot](https://github.com/user-attachments/assets/fd1e7915-2ae6-4612-b938-51babbba6443)
+![Weather App Screenshot](https://github.com/user-attachments/assets/f3c2d88a-15f0-4af2-985c-54c034c7e64a)
 
 ### ✅ Weather Result
 ![Weather Result](https://github.com/user-attachments/assets/fd1e7915-2ae6-4612-b938-51babbba6443)
